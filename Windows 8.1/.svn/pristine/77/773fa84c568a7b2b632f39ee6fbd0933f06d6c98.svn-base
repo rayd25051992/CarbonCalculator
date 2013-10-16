@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAMONDHP</Machine>
+    <WindowsUser>Raymond</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>D19FB0F3611335DB2391BDBC86E472593F91BB56310CBDA28BB0ABDBBC7601D8</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32694rayd250592.MPGCalculator_1.0.0.0_neutral__fb29x01rmnysm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>32694rayd250592.MPGCalculator_fb29x01rmnysm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>32694rayd250592.MPGCalculator</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Raymond\Desktop\MPG CALC\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-15T15:05:41.166</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Raymond\Desktop\MPG CALC\bin\Debug\MPG CALC.exe">
+      <PackagePath>MPG CALC.exe</PackagePath>
+      <Modified>2013-02-15T15:05:41.010</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Desktop\MPG CALC\bin\Debug\MPG CALC.pdb">
+      <PackagePath>MPG CALC.pdb</PackagePath>
+      <Modified>2013-02-15T15:05:40.987</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Desktop\MPG CALC\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-15T14:50:27.476</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Desktop\MPG CALC\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-15T14:49:34.160</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Desktop\MPG CALC\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-15T14:48:29.295</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Desktop\MPG CALC\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-02-15T14:53:15.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Desktop\MPG CALC\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-02-15T14:17:40.271</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Desktop\MPG CALC\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Desktop\MPG CALC\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2013-02-15T14:54:58.200</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Desktop\MPG CALC\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-02-15T15:05:41.095</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

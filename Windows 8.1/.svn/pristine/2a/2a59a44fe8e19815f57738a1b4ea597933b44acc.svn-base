@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PriInfo>
+	<ResourceMap name="32694rayd250592.CarbonCalculator" version="1.0" primary="true">
+		<Qualifiers/>
+		<ResourceMapSubtree name="Files">
+			<NamedResource name="App.xbf" uri="ms-resource://32694rayd250592.CarbonCalculator/Files/App.xbf">
+				<Candidate type="Path">
+					<Value>App.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<NamedResource name="MainPage.xbf" uri="ms-resource://32694rayd250592.CarbonCalculator/Files/MainPage.xbf">
+				<Candidate type="Path">
+					<Value>MainPage.xbf</Value>
+				</Candidate>
+			</NamedResource>
+			<ResourceMapSubtree name="Assets">
+				<NamedResource name="Logo.png" uri="ms-resource://32694rayd250592.CarbonCalculator/Files/Assets/Logo.png">
+					<Candidate type="Path">
+						<Value>Assets\Logo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SmallLogo.png" uri="ms-resource://32694rayd250592.CarbonCalculator/Files/Assets/SmallLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\SmallLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="SplashScreen.png" uri="ms-resource://32694rayd250592.CarbonCalculator/Files/Assets/SplashScreen.png">
+					<Candidate type="Path">
+						<Value>Assets\SplashScreen.png</Value>
+					</Candidate>
+				</NamedResource>
+				<NamedResource name="StoreLogo.png" uri="ms-resource://32694rayd250592.CarbonCalculator/Files/Assets/StoreLogo.png">
+					<Candidate type="Path">
+						<Value>Assets\StoreLogo.png</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+			<ResourceMapSubtree name="Common">
+				<NamedResource name="StandardStyles.xbf" uri="ms-resource://32694rayd250592.CarbonCalculator/Files/Common/StandardStyles.xbf">
+					<Candidate type="Path">
+						<Value>Common\StandardStyles.xbf</Value>
+					</Candidate>
+				</NamedResource>
+			</ResourceMapSubtree>
+		</ResourceMapSubtree>
+	</ResourceMap>
+</PriInfo>

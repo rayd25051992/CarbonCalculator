@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RAYMOND-HP</Machine>
+    <WindowsUser>Raymond</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>32694rayd250592.CarbonCalculator</PackageIdentityName>
+    <RegisteredManifestChecksum>36420CC24A27AFAAB373D15AB36F09CB4ED1524A0E25DE3B4D77FA157D2650D7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>32694rayd250592.CarbonCalculator_2.1.0.5_neutral__fb29x01rmnysm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>32694rayd250592.CarbonCalculator_fb29x01rmnysm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>32694rayd250592.CarbonCalculator</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=0C1BEA23-F6BC-4FF0-9198-007FF8578E3E</RegisteredPackagePublisher>
+    <RegisteredVersion>2.1.0.5</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Raymond\Documents\Carbon Calculator\Windows 8.1\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-21T22:47:32.208</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\Carbon Calculator\Windows 8.1\bin\Release\carbon_calc.exe">
+      <PackagePath>carbon_calc.exe</PackagePath>
+      <Modified>2013-09-21T22:40:22.241</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\Carbon Calculator\Windows 8.1\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-21T22:23:40.041</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\Carbon Calculator\Windows 8.1\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-21T22:23:40.019</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\Carbon Calculator\Windows 8.1\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-21T22:23:40.026</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\Carbon Calculator\Windows 8.1\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-09-21T22:23:40.034</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\Carbon Calculator\Windows 8.1\bin\Release\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2013-09-21T22:33:04.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\Carbon Calculator\Windows 8.1\bin\Release\Common\StandardStyles.xbf">
+      <PackagePath>Common\StandardStyles.xbf</PackagePath>
+      <Modified>2013-09-21T22:33:04.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\Carbon Calculator\Windows 8.1\bin\Release\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2013-09-21T22:33:04.518</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Raymond\Documents\Carbon Calculator\Windows 8.1\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-09-21T22:47:32.007</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
